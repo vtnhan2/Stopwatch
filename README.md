@@ -112,3 +112,5 @@ To modify system behavior:
 2. Change `pattern[]` array for different 7-segment displays
 3. Modify key mappings in `KeyPadScanning()`
 4. Adjust alarm time range (currently 00-59 seconds)
+
+## Demo: https://youtu.be/zNB9ILcJFEg
